@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.local
+nginx-1.25.4/
+interndemo-fe563-firebase-adminsdk-fbsvc-266e66c316.json
+nginx.zip
